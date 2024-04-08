@@ -1,6 +1,6 @@
 👋 Hi, I’m @DominikBrezovsek
 <br>
-<b><i>Student full-stack web adn mobile application developer based in </i></b>📍 Slovenia🇸🇮
+<b><i>Student full-stack web and mobile application developer based in </i></b>📍 Slovenia🇸🇮
 <br>
 I have a passion for developing stuning and user friendly web and mobile experiences, with focus on usability and reliability.
 <br>
