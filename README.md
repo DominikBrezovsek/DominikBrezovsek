@@ -11,7 +11,7 @@ I have a passion for developing stuning and user friendly web and mobile experie
 ## 
 <br>
 
-👀 I’m interested in web and mobile development and backend structures <br>
+👀 I’m interested in web and mobile development and backend services <br>
 🌱 I’m currently learning React, Laravel and Flutter <br>
 💞️ I’m looking to collaborate on interesting open source projects <br>
 ##
